@@ -8,7 +8,7 @@ const Footer = () => {
           <img alt="logo" src={Logo} />
           <p className="my-5">
             Embrace the enduring strength and vibrant spirit of Ethiopian fitness traditions.
-            Train with purpose, rooted in a rich heritage of movement and well-being.
+            Train with purpose, rooted in a rich heritage of movement and well-being of your health.
           </p>
           <p>2026 Ethiopian Fitness Hub. All Rights Reserved.</p>
         </div>
