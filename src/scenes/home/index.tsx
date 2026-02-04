@@ -79,19 +79,6 @@ const Home = ({ setSelectedPage }: Props) => {
           <img alt="home-pageGraphic" src={HomePageGraphic} />
         </div>
       </motion.div>
-
-      {/* SPONSORS */}
-      {isAboveMediumScreens && (
-        <div className="h-[150px] w-full bg-mono-dark py-10">
-          <div className="mx-auto w-5/6">
-            <div className="flex w-3/5 items-center justify-between gap-8">
-              <p className="font-bold text-lg text-mono-light">Ethio Telecome</p>
-              <p className="font-bold text-lg text-mono-light">Ethiopian Airlines</p>
-                  <p className="font-bold text-lg text-mono-light">Great Ethiopian Run</p>
-            </div>
-          </div>
-        </div>
-      )}
     </section>
   );
 };
