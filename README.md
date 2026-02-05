@@ -2,7 +2,7 @@
 
 A modern, responsive fitness website built with React, TypeScript, and Tailwind CSS, featuring an Ethiopian-inspired design and comprehensive fitness programs.
 
-## 🚀 Features
+## Features
 
 - **Modern React Architecture**: Built with React 18 and TypeScript for type safety and better developer experience
 - **Responsive Design**: Fully responsive layout that works on all device sizes
@@ -12,7 +12,7 @@ A modern, responsive fitness website built with React, TypeScript, and Tailwind 
 - **Form Handling**: Contact form with validation using react-hook-form
 - **Clean Code Structure**: Well-organized components and modular architecture
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Frontend Framework**: React 18 with TypeScript
 - **Styling**: Tailwind CSS with custom color palette
