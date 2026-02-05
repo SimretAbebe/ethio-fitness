@@ -15,14 +15,13 @@ const Home = ({ setSelectedPage }: Props) => {
 
   return (
     <section id="home" className="gap-16 bg-mono-light py-10 md:h-full md:pb-0">
-      {/* IMAGE AND MAIN HEADER */}
+     
       <motion.div
         className="mx-auto w-5/6 items-center justify-center md:flex md:h-5/6"
-        onViewportEnter={() => setSelectedPage(SelectedPage.Home)}
-      >
-        {/* MAIN HEADER */}
+        onViewportEnter={() => setSelectedPage(SelectedPage.Home)}>
+        
         <div className="z-10 mt-32 md:basis-3/5">
-          {/* HEADINGS */}
+         
           <motion.div
             className="md:-mt-20"
             initial="hidden"
@@ -32,8 +31,7 @@ const Home = ({ setSelectedPage }: Props) => {
             variants={{
               hidden: { opacity: 0, x: -50 },
               visible: { opacity: 1, x: 0 },
-            }}
-          >
+            }}>
               <div className="relative">
                 <HText>
                   YOUR ETHIOPIAN FITNESS JOURNEY
