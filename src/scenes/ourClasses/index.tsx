@@ -19,7 +19,7 @@ const classes: Array<ClassType> = [
   {
     name: "Cultural Movement & Dance",
     description:
-      "Immerse yourself in vibrant Ethiopian cultural dances, transforming your workout into a joyous celebration of movement and heritage. No experience needed!",
+      "Immerse yourself in vibrant Ethiopian cultural dances like Eskeseta, transforming your workout into a joyous celebration of movement and heritage and explore your culture. No experience needed!",
     image: image2,
   },
   {
